@@ -1,1 +1,1 @@
-# curso_git
+Curso de Git e GitHub Horadev
